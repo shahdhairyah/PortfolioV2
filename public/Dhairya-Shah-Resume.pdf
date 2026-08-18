@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1308 >>
+stream
+BT
+/F2 26 Tf 72 740 Td (Shah Dhairya) Tj
+/F1 13 Tf 72 716 Td (Full-Stack Developer & Digital Architect) Tj
+/F1 11 Tf 72 696 Td (admin@mail.shahdhairyah.in  |  +91 70692 76736  |  Gujarat, India) Tj
+/F1 11 Tf 72 680 Td (github.com/shahdhairyah  |  linkedin.com/in/shahdhairyah  |  shahdhairyah.in) Tj
+/F2 14 Tf 72 640 Td (Summary) Tj
+/F1 11 Tf 72 620 Td (Full-stack developer building performant web applications with React, PHP, Python,) Tj
+/F1 11 Tf 72 606 Td (Node.js and MySQL. Hackathon-recognized problem solver with a focus on clean,) Tj
+/F1 11 Tf 72 592 Td (scalable and secure software.) Tj
+/F2 14 Tf 72 552 Td (Technical Skills) Tj
+/F1 11 Tf 72 532 Td (Frontend: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS) Tj
+/F1 11 Tf 72 518 Td (Backend:  PHP, Node.js, Python, Laravel, REST APIs, MySQL) Tj
+/F1 11 Tf 72 504 Td (Tools:    Git, GitHub, VS Code, XAMPP, Vite, Figma) Tj
+/F2 14 Tf 72 464 Td (Achievements) Tj
+/F1 11 Tf 72 444 Td (SSIP Hackathon \(2023-24\): 4th place statewide among 1800+ teams.) Tj
+/F1 11 Tf 72 430 Td (CVUM Hackathon \(Feb 2025\): Best Explanation Award among 150+ teams.) Tj
+/F2 14 Tf 72 390 Td (Projects) Tj
+/F1 11 Tf 72 370 Td (Centralized Dashboard | AI Fruit Ninja | OTP Verification System) Tj
+/F1 11 Tf 72 356 Td (Smart Home System | Weather Application) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1755
+%%EOF

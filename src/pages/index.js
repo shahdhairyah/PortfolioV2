@@ -1,0 +1,12 @@
+export { Home } from "./Home";
+export { About } from "./About";
+export { Skills } from "./Skills";
+export { Projects } from "./Projects";
+export { ProjectCaseStudy } from "./ProjectCaseStudy";
+export { Achievements } from "./Achievements";
+export { AchievementDetails } from "./AchievementDetails";
+export { Contact } from "./Contact";
+export { Resume } from "./Resume";
+export { Privacy } from "./Privacy";
+export { Terms } from "./Terms";
+export { NotFound } from "./NotFound";

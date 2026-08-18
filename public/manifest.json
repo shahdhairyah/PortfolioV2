@@ -1,0 +1,26 @@
+{
+  "name": "ShahDhairyah Portfolio App",
+  "short_name": "ShahDhairyah",
+  "description": "Portfolio of Shah Dhairya – Full-Stack Developer & Innovation Builder",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAFAFA",
+  "theme_color": "#BF4417",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "technology", "development"],
+  "lang": "en"
+}
