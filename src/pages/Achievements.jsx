@@ -10,7 +10,7 @@ import { hackathons } from "@/data/achievements";
 const achievements = [
   { icon: Flame, number: "25+", label: "Hackathon Participant" },
   { icon: Users, number: "3+", label: "Years Building" },
-  { icon: Trophy, number: "1", label: "Hackathon Winner (State Level)" },
+  { icon: Trophy, number: "2", label: "Hackathon Winner (State Level)" },
   { icon: Award, number: "13+", label: "Hackathon Final Round Selected" },
 ];
 

@@ -109,7 +109,7 @@ export const AchievementDetails = () => {
                 <img
                   src={hack.image}
                   alt={hack.title}
-                  className="w-full h-auto max-h-[520px] object-cover"
+                  className="w-full h-auto max-h-[560px] object-contain bg-black/30"
                 />
               </motion.div>
             )}
@@ -191,7 +191,7 @@ export const AchievementDetails = () => {
                         src={src}
                         alt={`${hack.title} photo ${i + 1}`}
                         loading="lazy"
-                        className="w-full h-48 md:h-64 object-cover transition-transform duration-500 group-hover:scale-105"
+                        className="w-full h-48 md:h-64 object-contain bg-black/30 transition-transform duration-500 group-hover:scale-[1.03]"
                       />
                     </motion.div>
                   ))}

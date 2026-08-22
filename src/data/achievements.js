@@ -1,4 +1,4 @@
-import { Trophy, Award } from "lucide-react";
+import { Trophy, Award, Medal } from "lucide-react";
 
 export const hackathons = [
   {
@@ -19,6 +19,29 @@ export const hackathons = [
       "181 teams shortlisted for the final round",
       "Built and demoed a live working product to state-level judges",
       "Secured 4th place in my sector",
+    ],
+  },
+  {
+    slug: "bbit-creato-2024",
+    icon: Medal,
+    rank: "CO17",
+    title: "Creato 2024 — Best Innovative Project (Team CO17)",
+    org: "Creato 2024 · State Level Event",
+    year: "18 April 2024",
+    image: "/images/achievement/BBIT_CERATO_24.jpeg",
+    text: "Won Best Innovative Project at Creato 2024, a state-level event held on 18 April 2024, organised by Bhailalbhai & Bhikhabhai Institute of Polytechnic (BBIT), Anand. Our official team ID was CO17.",
+    stats: [
+      { value: "CO17", label: "Team ID · Best Innovative Project" },
+      { value: "State", label: "Level Event" },
+      { value: "18 Apr", label: "Held in 2024" },
+    ],
+    details: [
+      "Won Best Innovative Project at Creato 2024 State Level Event",
+      "Our official team ID was CO17",
+      "State-level event held on 18 April 2024",
+      "Organised by Bhailalbhai & Bhikhabhai Institute of Polytechnic (BBIT), Anand",
+      "Special thanks to BBIT for providing the right direction, proper guidance, and recognition",
+      "Also special thanks to Darshan Desai Sir, Rakesh Verma Sir, Hardik Sir, and full college team of BBIT",
     ],
   },
   {
@@ -54,6 +77,28 @@ export const hackathons = [
       { name: "Shah Dhairya", role: "Team Leader · Full Stack Developer" },
       { name: "Patel Nand", role: "Backend + Q/A" },
       { name: "Rajkotiya Zeel", role: "Documentation + Presentation + Testing" },
+    ],
+  },
+  {
+    slug: "gujarat-gaurav-2026",
+    icon: Trophy,
+    rank: "2026",
+    title: "Gujarat Gaurav Award 2026 — Water Logging Project",
+    org: "Gujarat Gaurav Award · Smart Gujarat Government",
+    year: "31 May 2026",
+    image: "/images/achievement/GGA2026_1.png",
+    gallery: ["/images/achievement/GGA2026.png", "/images/achievement/GGA2026_2.png"],
+    text: "Honoured with the Gujarat Gaurav Award 2026 for the Smart Gujarat Government Water Logging project, presented on 31 May 2026. Organised by Ankit Bhatmani and Mital Shah.",
+    stats: [
+      { value: "2026", label: "Gujarat Gaurav Award" },
+      { value: "31/05/26", label: "Award Date" },
+      { value: "Govt.", label: "Smart Gujarat Project" },
+    ],
+    details: [
+      "Received the Gujarat Gaurav Award 2026 for the Smart Gujarat Government Water Logging project",
+      "Award presented on 31st May 2026",
+      "Organised by Ankit Bhatmani and Mital Shah",
+      "Sincere thanks to Ankit Bhatmani and Mital Shah for this opportunity and the award",
     ],
   },
 ];
